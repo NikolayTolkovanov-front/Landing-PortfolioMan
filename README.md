@@ -1,2 +1,3 @@
 # NewPortfolio.github.io
-portfolio on bootstrap
+Одностраничный сайт портфолио - учебный проект
+Ссылка: https://landing-portfolioman.github.io/
